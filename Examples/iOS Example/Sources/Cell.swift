@@ -10,6 +10,10 @@ import UIKit
 
 class Cell: UITableViewCell {
 
+    
+    
+    
+    // hi
     @IBOutlet weak var avatar: UIImageView!
     @IBOutlet weak var label1: UILabel!
     @IBOutlet weak var textField: UITextField!
